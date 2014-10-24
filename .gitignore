@@ -1,2 +1,5 @@
-_site
-.sass-cache
+components/*
+.sass-cache/
+!**/.gitkeep
+\_site/**
+
